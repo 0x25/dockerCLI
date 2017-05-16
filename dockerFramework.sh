@@ -1,4 +1,3 @@
-
 #!/bin/bash
 # CLI api to Query docker
 # fr 11/07/2016
